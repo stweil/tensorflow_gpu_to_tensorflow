@@ -8,7 +8,7 @@ import setuptools
 
 setuptools.setup(
     name='tensorflow_gpu',
-    version='1.14',
+    version='1.15.2',
     description='dummy for tensorflow-gpu',
     long_description=codecs.open('README.md', encoding='utf-8').read(),
     long_description_content_type='text/markdown',
